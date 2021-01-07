@@ -1,0 +1,24 @@
+{
+    "configurations": [
+        {
+            "name": "Win32",
+            "includePath": [
+                "C:\\Users\\Drew\\arduino_ide\\arduino-1.8.13\\tools\\**",
+                "C:\\Users\\Drew\\Documents\\Arduino\\libraries\\**",
+                "C:\\Users\\Drew\\arduino_ide\\arduino-1.8.13\\libraries\\**",
+                "C:\\Users\\Drew\\arduino_ide\\arduino-1.8.13\\hardware\\tools\\**",
+                "C:\\Users\\Drew\\arduino_ide\\arduino-1.8.13\\hardware\\arduino\\avr\\**"
+            ],
+            "forcedInclude": [
+                "C:\\Users\\Drew\\arduino_ide\\arduino-1.8.13\\hardware\\arduino\\avr\\cores\\arduino\\Arduino.h"
+            ],
+            "defines": [
+                "USBCON"
+            ],
+            "intelliSenseMode": "msvc-x64",
+            "cStandard": "c17",
+            "cppStandard": "c++17"
+        }
+    ],
+    "version": 4
+}
