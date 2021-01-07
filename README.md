@@ -1,3 +1,4 @@
 # first_arduino
-Drew's project
-hello from drew's laptop
+First Arduino Project
+
+- First Goal: Blink
